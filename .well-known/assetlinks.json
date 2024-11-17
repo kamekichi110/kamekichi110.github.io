@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "io.github.kamekichi110.twa",
+               "sha256_cert_fingerprints": ["a4:22:95:5B:AC:4B:88:52:1A:37:D6:57:23:41:31:E9:F7:D2:4A:8D:F0:F9:49:D4:11:83:C0:FA:E3:A5:C6:1D"] }
+}]
